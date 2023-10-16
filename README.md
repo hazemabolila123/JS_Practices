@@ -1,0 +1,1 @@
+It is a repo to upload the assignments about JavaScript topics I study on elzero lessons
